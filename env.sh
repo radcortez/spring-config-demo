@@ -1,0 +1,3 @@
+export SERVER_HOST=prod
+export SERVER_ALIASES_KEY_NAME=value
+export SERVER_ALIASES_ANOTHER_DASHED_NAME=value
